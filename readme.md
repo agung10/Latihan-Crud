@@ -1,3 +1,16 @@
+#Home
+[![1.png](https://i.postimg.cc/SNZgKrCx/1.png)](https://postimg.cc/YhW6nQd5)
+
+#Jurusan
+[![2.png](https://i.postimg.cc/fbdCBQFV/2.png)](https://postimg.cc/p92KL4Pv)
+
+#Kelas
+[![3.png](https://i.postimg.cc/RZyG7ZPr/3.png)](https://postimg.cc/9DPGVC51)
+
+#Siswa
+[![4.png](https://i.postimg.cc/t4Y2nxNt/4.png)](https://postimg.cc/pmMDgy7p)
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
